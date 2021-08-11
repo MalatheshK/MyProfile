@@ -2,8 +2,8 @@
 ## Welcome to MyProfile
 
 ### MALATHESH K
-- Karnataka, India| Ph: 6360068284
-- malathesh.k28@gmail.com | https://github.com/MalatheshK | https://www.hackerearth.com/@malathesh.k28
+- Karnataka, India, Ph: 6360068284
+- malathesh.k28@gmail.com , https://github.com/MalatheshK , https://www.hackerearth.com/@malathesh.k28
 
 **Career Objective :**
 - To work with an organization which provides me the opportunity to improve my skills and knowledge to grow along with the organization.
