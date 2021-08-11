@@ -1,6 +1,4 @@
 
-## Welcome to MyProfile
-
 ### MALATHESH K
 - Karnataka, India, Ph: 6360068284
 - [malathesh.k28@gmail.com](url) , [https://github.com/MalatheshK](url) , [https://www.hackerearth.com/@malathesh.k28](url)
