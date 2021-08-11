@@ -1,7 +1,7 @@
 
 ### MALATHESH K
 - Karnataka, India, Ph: 6360068284
-- [malathesh.k28@gmail.com](url) , [https://github.com/MalatheshK](url) , [https://www.hackerearth.com/@malathesh.k28](url)
+- [malathesh.k28@gmail.com](malathesh.k28@gmail.com) , [https://github.com/MalatheshK](https://github.com/MalatheshK) , [https://www.hackerearth.com/@malathesh.k28](https://www.hackerearth.com/@malathesh.k28)
 
 **Career Objective :**
 - To work with an organization which provides me the opportunity to improve my skills and knowledge to grow along with the organization.
