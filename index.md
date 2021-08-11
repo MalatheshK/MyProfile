@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MalatheshK/MyProfile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to MyProfile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### MALATHESH K
+- Karnataka, India| Ph: 6360068284
+- malathesh.k28@gmail.com | https://github.com/MalatheshK | https://www.hackerearth.com/@malathesh.k28
 
-### Markdown
+**Career Objective :**
+- To work with an organization which provides me the opportunity to improve my skills and knowledge to grow along with the organization.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Core Competencies :**
+- Python
+- Django
+- Django Rest Framework
+- HTML
+- Bootstrap
+- Git, GitHub
+- Visual Studio
+- Pycharm
 
-```markdown
-Syntax highlighted code block
+**Professional Experience :**
+- Software Engineer @Mphasis Ltd - Bengaluru, Karnataka [2.5 years]
 
-# Header 1
-## Header 2
-### Header 3
+**Education :**
+- Bachelor of Engineering: Information Science
+@SDM College of Engineering and Technology - Dharwad, Karnataka
+GPA : 8.58
 
-- Bulleted
-- List
+**Projects :**
+- Blog app : It’s a simple blog website where user can view blogs and also post.
+Technologies used are HTML, Bootstrap, Python, Django, Sqlite, GIT
+https://github.com/MalatheshK/blog.
+- Estore : It’s a online store for gaming products where user can buy products and also can view api data.
+Technologies used are Python, Djnago, HTML, Bootstrap, Sqlite, GIT
+https://github.com/MalatheshK/estore.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MalatheshK/MyProfile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Achievements :**
+- Completed Delivery Readiness Program at Mphasis learning academy.
+- Won Summit individual award for outstanding performance.
+- Has a rating of 1064 in Hackerearth.
